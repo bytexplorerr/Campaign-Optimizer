@@ -40,5 +40,5 @@ Follow these steps to run the project locally:
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/campaign-optimizer.git
-   cd campaign-optimizer
+   git clone https://github.com/your-username/Campaign-Optimizer.git
+   cd Campaign-Optimizer
